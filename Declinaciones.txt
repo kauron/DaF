@@ -1,0 +1,4 @@
+		MM	N	F	Pl
+Nominative	der	das	die	die
+Akkusativ	den	das	die	die
+Dativ		dem	dem	der	den(n)

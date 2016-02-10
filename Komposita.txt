@@ -1,0 +1,8 @@
+Komposita = Grundwort (general, article...) und Bestimmungswort (specific)
+
+der Schreibtisch (-e) = schreib(en) + der Tisch
+das Bücherregal = die Bücher + das Regal
+der Küchentisch = die Küche + der Tisch
+das Wohnzimmer = wohn(en) + das Zimmer
+
+To join words, use 's' or 'n'

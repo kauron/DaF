@@ -1,0 +1,8 @@
+Adjektivendungen ohne Artikel oder mit dem unbestimmten Artikel
+
+Artikel 	Atributiv		Predikativ
+=====================================
+einer		großer Balkon	Der Balkon ist groß
+eine		schöne Küche 	Die Küche ist schön
+ein			helles Bad		Das Bad ist hell
+---			große Fenster	Die Fenster sind groß
