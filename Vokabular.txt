@@ -52,7 +52,12 @@ die Lage 		situación (de liegen)
 laut			ruidoso
 Lärm			ruido
 
+Kaution			fianza
+günstig			chollo
+verkehrsgünstig 			bien comunicado
 Sehenswürdigkeiten			cosas que ver
+
+Termin 			cita
 
 der Keller 		sótano
 
@@ -72,13 +77,13 @@ ab sof. 	ab sofort
 MM 			Monatsmiete
 OG 			Obergeschoss
 gr. 		größ
-NK 			Nebenkosten
+NK 			Nebenkosten			
 freundl. 	freundlich
 sep. 		separat
 Kü.			Küche
 m. 			mit
 m² 			Quadratmeter
-kl. 		klein
-ca. 		circa
-teilmöbl. 	teilmöbliert		
+kl. 		klein				pequeño
+ca. 		circa				alrededor de
+teilmöbl. 	teilmöbliert		parcialmente amueblado
 prakt. 		praktisch
