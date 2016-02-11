@@ -87,3 +87,20 @@ kl. 		klein				pequeño
 ca. 		circa				alrededor de
 teilmöbl. 	teilmöbliert		parcialmente amueblado
 prakt. 		praktisch
+
+viel != wenig
+teuer != billig
+gut != schlecht
+sehr teuer
+ganz teuer
+Komparativ als ...
+
+Vorlieben 			preferencias
+ganz / sehr / nicht so
+hoch / höher		alto (precio, altura de edificio)
+
+günstig				----̣
+preiswert			no está mal de precio (der Preis + der Wert)
+
+der Umzug 		la mudanza
+der Einzug		el momento de la mudanza
