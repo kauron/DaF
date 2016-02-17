@@ -1,0 +1,25 @@
+Vermieter:  Hallo, hier Vélez
+Mieter:     Guten Tag, hier Galindo. Ich habe Ihre Anzeige für die Wohnung gelesen. Ist die Wohnung noch frei?
+Vermieter:  Nein. Tut mir leid. Ein Junge hat heute Morgen telefoniert.
+Mieter:     Danke. Aufwiederhören!
+
+Vermieter:  Hallo, hier Vélez
+Mieter:     Guten Tag, hier Galindo. Ich habe Ihre Anzeige für die Wohnung gelesen. Ist die Wohnung noch frei?
+Vermieter:  Ja, Sie haben Glück.
+Mieter:     Super. Wie groß ist das Schlafzimmer?
+Vermieter:  Das Schlafzimmer ist sehr groß. Es ist 90m².
+Mieter:     90m²? Das ist sehr groß. Sind Sie sicher?
+Vermieter:  Entschüldigung. Das Schlafzimmer ist NUR 19m².
+Mieter:     Das ist O.k. Aber, wie hoch ist die Monatsmiete?
+Vermieter:  CHF 2000. Wo arbeiten Sie?
+Mieter:     Ich arbeite bei BMW. Hat die Wohnung Parkplätze? Vie viele?
+Vermieter:  Ja. Die Wohnung hat genug Parkplätze für alle Ihre Autos.
+Mieter:     Wann könnte ich die Wohnung besichtigen? Wann passt Ihnen gut?
+Vermieter:  Ich bin frei um 10 Uhr, aber nur morgen. Passt das Ihnen gut?
+Mieter:     Ja. Das passt mir.
+Vermieter:  Kommen Sie allein? Oder mit einem Partner?
+Mieter:     Ich komme allein. Wo liegt die Wohnung?
+Vermieter:  Es ist ein Altbau in Enge, am See. Es ist ein schöner Altbau. Die Wohnung liegt im dritten Stock.
+Mieter:     Gut. Wie heißt die Straße?
+Vermieter:  WaschkucheStraße Nr. 3. Sie können mit dem Bus fahren mit der Linie 81.
+Mieter:     Das klingt gut.
