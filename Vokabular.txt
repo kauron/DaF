@@ -104,3 +104,8 @@ preiswert			no está mal de precio (der Preis + der Wert)
 
 der Umzug 		la mudanza
 der Einzug		el momento de la mudanza
+
+die Wand(-¨e)   pared
+das Dach(-¨er)  tejado
+der Hof(-¨e)    patio
+die Fassade(-n) la fachada
