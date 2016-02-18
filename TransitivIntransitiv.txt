@@ -4,11 +4,11 @@ Seite 90 ÜB
     1a Er legt den Terminkalender auf den Tisch.
     1b Der Terminkalender liegt auf dem Tisch.
 
-    2a Er stellt die Lampe auf dem Teppich.
+    2a Er stellt die Lampe auf den Teppich.
     2b Die Lampe steht auf dem Teppich.
 
-    3a Er legt das Buch auf dem Tisch.
+    3a Er legt das Buch auf den Tisch.
     3b Das Buch liegt auf dem Tisch.
 
-    4a Er hängt das Bild an der Wand.
+    4a Er hängt das Bild an die Wand.
     4b Das Bild hängt an der Wand.
