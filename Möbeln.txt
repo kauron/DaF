@@ -20,14 +20,14 @@ Seite 87 Übungsbuch (pdf 89, A2 103)
 	A das Sofa
 	B der Sessel
 	C der Kühlschrank
-	D das Waschbecken
-	E das Waschbecken ????
+	D das Waschbecken           pila
+	E die Spüle                 pila de fregar ????
 	F der Bett
 	G der Teppich
 	H das Regal
 	I der Schrankwand
 	J der Decke
-	K der Herd
+	K der Herd (-e)             cocina
 	L der Spiegel
 	M die Badewanne
 	N die Matratze
