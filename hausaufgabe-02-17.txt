@@ -4,8 +4,8 @@ c
     Ich finde, die Anzeige B passt gut.
     Ich meine, das Angebot C passt besser.
     Anzeige B passt gut, denn die Wohnung liegt Zentral.
-    Ich finde, Anzeige B passt nicht gut
-    Mir gefällt Wohnung B nicht, die Wohnung D passt am besten.
+    Ich finde, Anzeige B passt nicht gut.
+    Mir gefällt Wohnung B nicht, sondern Wohnung D.
 
 6a
     dunkler Keller          praktische Küche
