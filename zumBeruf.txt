@@ -1,0 +1,11 @@
+Ein Studium             carrera
+Ein Bankkaufmann        banquero
+Das Gymnasium           instituto
+Ein Handwerker          trabajador manual
+Das Abitur              ~selectivo
+Ein Abschlusszeugnis    certificado, título
+Die duale Ausbildung    formación dual (teórico-práctica)
+Die Berufsfachschule    Escuela de FP
+Ein Praktikum           practicas
+Ein Lehrling            aprendiz/aprendizaje
+Eine Lehre
