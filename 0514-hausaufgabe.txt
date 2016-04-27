@@ -10,11 +10,11 @@ AB S.148 6a 7a
         sie sollten
     7b
         1. Tanja könnte deutsches Fernsehen schauen.
-        2. Pit könnte mit dem Lehrer sprechen.
+        2. Pit sollte mit dem Lehrer sprechen.
         3. Miriam könnte zu einem Berufsberater gehen.
-        4. Gowindan könnte gut Deutsch lernen.
+        4. Gowindan sollte gut Deutsch lernen.
         5. Herr Leiser könnte zur Agentur für Arbeit gehen.
-        6. Die Lehrerin Frau Eigner könnte mit Eltern und Kollegen sprechen.
+            6. Die Lehrerin Frau Eigner sollte mit Eltern und Kollegen sprechen.
 
 AB S.149
     1       Physiotherapeut         Bankkaufmann
@@ -38,10 +38,10 @@ AB S.149
         -s      Lehres, Hauses, Nachbars, Praktikums, Zentrums, Zettels
         -es     Abchlusses, Grußes, Stresses, Satzes
         -(e)s   Markt[e]s, Rezept[e]s, Vergleich[e]s, Vorschlag[e]s
-        -(e)n   Kollegen, Nachbarn, Patienten, Praktikanten
-        --      Arbeit, Ausbildung, Firma, Kunde, Lehre, Praxis, Studium
+        -(e)n   Kollegen, Nachbarn, Patienten, Praktikanten, Kunden
+        --      Arbeit, Ausbildung, Firma, Lehre, Praxis, Studium
 
-KB S.66-67 2a 2b 2c
+KB S.66-67 2c
     2a
         Untersuchung der unzelnen Patienten
         Beachtung des ärtzlichen Rezepts, Planung einer passenden Therapie
@@ -49,12 +49,10 @@ KB S.66-67 2a 2b 2c
         Besprechung des Plans
         Beratung des Kunden
         Prüfung des finanziellen Situation des einzelnen
-    
-    2b  M       N       F       Pl
-    NOM der     das     die     die
-        ein     ein     eine    -
-    GEN des     des     der     der
-        eines   eines   einer   -
 
-    2c
-        
+    2b  M                   N       F       Pl
+    NOM der                 das     die     die
+        ein                 ein     eine    -
+    GEN des/eines Plan[e]s  des     der     der
+        eines               eines   einer   -
+

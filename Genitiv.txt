@@ -1,0 +1,27 @@
+Genitiv
+
+            M                   N                       F                   Pl
+
+Nom.        der/ein Plan        das/ein Rezept          die/eine Therapie   die/- Anleger
+            der/ein Kunde                                                   die/- Kunden
+
+Gen.        des/eines Plans     des/eines Rezept[e]s    der/einer Therapie  der/- Anleger
+            des/eines Kunden                                                der/- Kunden
+
+
+M, N -> des, eines
+F, Pl -> der, einer/-
+
+M, N -> -s oder -es (des Plans/Planes)
+    -s, -z, -ß, -x --> -es
+F, Pl -> keine Genitivendung
+
+n-Deklination -> immer -n oder -en
+
+
+En sustantivos sin artículo, en lugar del genitivo se puede emplear "von" + DATIV
+Bei Nomen ohne Artikel verwendet man anstelle vom Genitiv "vom" + Dat.
+    z.B. die Behandlung von Menschen == die Behandlung der Menschen
+
+    Die Geschwister meiner Eltern sind meine Onkel und Tanten.
+    Die Geschwister von meines Eltern sind meine Onkel und Tanten.
