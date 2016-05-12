@@ -40,6 +40,7 @@ Partizip: geworden (con significado) oder worden (como auxiliar)
 
 * Ergänzung -> Complemento "imprescindible"
 * Angabe -> Complemento "prescindible"
+* das Agens -> el complemento agente (von ...)
 
 ## Übungen
 
@@ -59,6 +60,18 @@ Partizip: geworden (con significado) oder worden (como auxiliar)
 6. Welche Marke wurde in den letzen Jahren entwickelt?
     * In den letzen Jahren wurde Bio-Schokoladen entwickelt.
 
+### 4e Seite 157 Übungsbuch
+
+1. Die Museumsgründerin wählte als Idee für die Sammlung das Thema "Quadrat".
+    * Als Idee für die Sammlung wurde das Thema "Quadrat" gewählt.
+2. Seit der Eröffnung zeigte das Museum viele Ausstellungen zum Thema "Quadrat in der Kunst".
+    * Viele Ausstellungen wurden seit der Eröffnung gezeigt.
+3. Außerdem organisiert das Museum allgemeine Austellungen zur modernen Kunst.
+    * Allgemeine Austellungen werden außerdem zur modernen Kunst organisiert.
+4. Im Museumcafé bietet man den Besuchern Schokolade, Kuchen und kleine Gerichte an.
+    * Die Besuchern Schokolade, Kuchen und kleine Gerichte 
+
+``TODO``
 
 ## Hausaufgabe
 
