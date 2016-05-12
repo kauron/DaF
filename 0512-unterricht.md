@@ -1,18 +1,21 @@
 ## Vokabular
-letze Version - last version
-endgültig Version - definitiv
+* letze Version - last version
+* endgültig Version - definitiv
 
-haber = besitzen
-Besitzer = Inhaber
 
-heiraten - casarse
-verheiratet - casado
+* haber = besitzen
+* Besitzer = Inhaber
 
-Paar - Ehepaar - pareja, conyuges
-Ehe - matrimonio
-erhalten (erhielten) = bekommen = kriegen = recibir
-der Erfolg - éxito
-die Sorte - tipo (Biersorten, Eissorten...)
+
+* heiraten - casarse
+* verheiratet - casado
+
+
+* Paar - Ehepaar - pareja, conyuges
+* Ehe - matrimonio
+* erhalten (erhielten) = bekommen = kriegen = recibir
+* der Erfolg - éxito
+* die Sorte - tipo (Biersorten, Eissorten...)
 
 ## werden
 Partizip: geworden (con significado) oder worden (como auxiliar)
