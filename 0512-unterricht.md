@@ -16,6 +16,7 @@ die Sorte - tipo (Biersorten, Eissorten...)
 
 ## werden
 Partizip: geworden (con significado) oder worden (como auxiliar)
+
 | Präsens | Präteritum |
 | ---     | ---        |
 | werde   | wurde      |
