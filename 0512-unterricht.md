@@ -37,6 +37,10 @@ Partizip: geworden (con significado) oder worden (como auxiliar)
 * Subject + ``sein`` + ... + ``Partizip II`` + ``worden``
     * sein en presente = ha sido ... (presente perfecto en pasiva)
 
+
+* Ergänzung -> Complemento "imprescindible"
+* Angabe -> Complemento "prescindible"
+
 ## Übungen
 
 ### 1c Seite 74 Kursbuch
@@ -54,3 +58,8 @@ Partizip: geworden (con significado) oder worden (como auxiliar)
     * Die Hestellung von Schokolade und die Geschichte von Ritter Sport werden im Besucherzentrum präsentiert.
 6. Welche Marke wurde in den letzen Jahren entwickelt?
     * In den letzen Jahren wurde Bio-Schokoladen entwickelt.
+
+
+## Hausaufgabe
+
+* Übungsbuch, seite 155, 1 - 4 (Passiv Übungen)
