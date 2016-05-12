@@ -40,7 +40,7 @@ Partizip: geworden (con significado) oder worden (como auxiliar)
 
 1. Seit wann gibt es die Firma?
     * Die Firma wurde \[in Jahr\] 1919 gegründet
-2. Wie viele Mitarbeiter beschäftigt sie heute_?
+2. Wie viele Mitarbeiter beschäftigt sie heute?
     * Die Firma beschäftigt circa 800 Mitarbeite.
 3. Wie hoch ist der Umsatz heute?
     * Der Umsatz ist 274 Millionen Euro.
